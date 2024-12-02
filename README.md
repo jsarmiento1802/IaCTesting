@@ -1,6 +1,8 @@
 ### Overview 
 
-Pleaceholder for detecting testing anti-patterns in IaC 
+Pleaceholder for detecting testing anti-patterns in IaC
+
+Test for Workshop 9
 
 ### Contributors
 
